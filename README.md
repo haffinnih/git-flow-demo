@@ -2,4 +2,4 @@
 
 This is a repo for demonstrating git-flow
 
-Verison: 0.1
+Verison: 0.2
